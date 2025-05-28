@@ -1,0 +1,70 @@
+body {
+    background-color: #f4f0e5;
+    font-family:Tahoma;
+    margin: 0;
+}
+.secao {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+img.img-logotipo {
+    width: 200px;
+}
+a {
+    margin: 0 10px;
+    color: #542f0c;
+}
+h1 {
+    font-size: 28px;
+    border-top: 2px solid #de8e37;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-top: 30px;
+}
+h2 {
+    color: #de8e37;
+    font-weight: normal;
+}
+.imagem-banner {
+width: 700px;
+border-radius: 5px;
+}
+.secao-destaque {
+    background-color: #de8e37;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    
+}
+.secao-destaque img{
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.secao-destaque h3 {
+    font-size: 28px;
+    margin-bottom: 28px;
+    margin-top: 15px;
+}
+.secao-destaque h4 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+ p {
+    font-size: 16px;
+    text-align: center;
+    width: 600px;
+    line-height: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.secao-contato p {
+    line-height: 10px;
+}
+span {
+    font-weight: bold;
+}
